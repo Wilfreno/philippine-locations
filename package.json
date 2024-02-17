@@ -1,0 +1,30 @@
+{
+  "name": "philippine-locations",
+  "version": "1.0.0",
+  "description": "An npm package providing the list of Philippines' geographical locations from region to barangay ",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wilfreno/philippine-locations.git"
+  },
+  "keywords": [
+    "philippines",
+    "locations",
+    "list"
+  ],
+  "author": "Wilfreno Gayongan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Wilfreno/philippine-locations/issues"
+  },
+  "homepage": "https://github.com/Wilfreno/philippine-locations#readme",
+  "devDependencies": {
+    "tsup": "^8.0.2",
+    "typescript": "^5.3.3"
+  }
+}
